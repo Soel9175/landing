@@ -1,0 +1,14 @@
+.btn-crypto {
+background-color: #9DD9D2;
+color: white;
+padding: 16px 36px;
+border: 1px solid white;
+border-radius: 50px;
+display: inline-block;
+}
+
+.btn-crypto:hover {
+cursor: pointer;
+font-weight: bold;
+transition: all 0.5s;
+}

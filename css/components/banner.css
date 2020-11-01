@@ -1,0 +1,16 @@
+.banner {
+  padding: 150px 0;
+  background-size: cover; /* makes sur the image is not distorted */
+  background-position: center; /* makes sure it focuses on the center */
+}
+
+.banner h1 {
+  color: #9DD9D2;
+}
+
+.banner p {
+  color: #FFF8F0;
+  font-size: 20px;
+  opacity: 0.7,
+}
+
